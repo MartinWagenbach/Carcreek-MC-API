@@ -1,0 +1,5 @@
+name: Carcreek-MC-API
+version: 1.0-SNAPSHOT
+main: de.carcreek.CarcreekMcApi
+author: Mimnu
+api-version: '1.21.4'
